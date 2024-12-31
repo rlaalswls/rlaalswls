@@ -1,14 +1,16 @@
-### Hi 👋
-
-<p align="center">
-<a href="https://github.com/rlaalswls">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kim+MinJin;Researcher+%7C+SMU+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
-</a>
-<br/>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa57d&height=180&text=hi%20there,%20I'm%20Sienna&animation=&fontColor=000000&fontSize=50" />
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 개발자 김민진입니다. </div> 
+    </div>
+    <div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Sienna&custom_title=Sienna's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sienna&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
     
-<a href="https://github.com/rlaalswls">
-    <img src="https://github-stats-alpha.vercel.app/api?username=rlaalswls&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
 
 <!--
 **rlaalswls/rlaalswls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
