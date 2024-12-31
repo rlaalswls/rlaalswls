@@ -1,8 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa57d&height=180&text=hi%20there,%20I'm%20Sienna&animation=&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ee8c56&height=180&text=hi%20there,%20I'm%20Sienna&animation=&fontColor=000000&fontSize=50" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍💻 Introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 개발자 김민진입니다. </div> 
     </div>
     <div align= "center"> 
@@ -18,7 +18,6 @@
           <br/><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white">
           </div>
     </div>
-    
 
 <!--
 **rlaalswls/rlaalswls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+    
